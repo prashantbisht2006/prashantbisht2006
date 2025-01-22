@@ -1,40 +1,37 @@
-## Hi there 👋
+###
 
-<!--
-Hi there! 👋 I'm Prashant Bisht
+<h1 align="center">Hey there 👋</h1>
 
-Welcome to my GitHub profile! I'm an engineering student at VIT Bhopal .
+###
 
-About Me
- 
-  💻 Skilled in C++, HTML, CSS, and JavaScript.
+<h3 align="left">👩‍💻  About Me</h3>
 
-  🌱 Currently working on a project: Weather-Site.
+###
 
-  📘 Future learning plans include Node.js and the React framework.
+<p align="left">I'm Prashant Bisht from Nainital, Uttarakhand,India.<br>
+ <br>- 🔭 I’m an engineering student at VIT Bhopal University.
 
-🛠️ Technologies & Tools
+<br>- 📚 I'm currently learning Node.js and the React framework to enhance my web development skills.
 
-   Programming Languages: C++, HTML, CSS, JavaScript
-
-   Development Tools: Git, VS Code
-
-   Frameworks: (future learning: React)
-
-   Databases: MySQL
-   
-📂 Featured Projects
-
-Weather-Site: A weather application providing real-time weather updates.
+<br>- ⚡ In my free time, I explore technologies like Git and Docker to enhance my knowledge.</p>
 
 
-🌐 Connect with Me
+###
 
-LinkedIn: www.linkedin.com/in/prashantbisht2006
+<h3 align="left">🛠 Language and tools</h3>
 
-Gmail: prashantbisht284@gmail.com
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+</div>
 
-
-
--->
+###
